@@ -1,10 +1,8 @@
-# Inverse-kinematic-modeling-using-robo-analyzer-
+#  EX-04 Inverse-kinematic-modeling-using-robo-analyzer-
 
  
 ## AIM: 
-To analyze the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer and polt the graph of joint angle for a given  input end effector position .
-
-
+To analyze the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer.
 ### COMPONENTS REQUIRED:
 1.Robo analyzer software  
 
@@ -37,49 +35,17 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ### PROCEDURE:
 
-
-
-
-
-
-
-
-### SIMULATION 
+1. open the roboanalyzer software.
+2. select the robot and its degrees of freedom.
+3. change the values of X and Y wherever necessary.
+4. simulate the model for inverse kinematics.
+5. plot the graph between the joints.
+6. update the DH parameters of the link configuration and end effector configuration.
+### SIMULATION
+### 3R
+![output](./A1.png) 
+### 3 Articulated robot
+![output](./A2.png)
  
- 
- 
- 
- 
- 
- 
- ### PLOT 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### RESULTS :  
+Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
