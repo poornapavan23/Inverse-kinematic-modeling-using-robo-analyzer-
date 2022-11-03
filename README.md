@@ -45,3 +45,7 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 6.update the DH parameters of the link configuration and end effector configuration.
 
 ### SIMULATION
+![image](https://user-images.githubusercontent.com/115688029/199713422-4c790675-3c64-404d-805a-ff8d79cc0ef0.png)
+![image](https://user-images.githubusercontent.com/115688029/199713562-0134405d-4173-47a4-8a47-36a6e717ce28.png)
+### RESULTS :
+Thus,the inverse kinematics using DH parameters for a 3 dof planer robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
